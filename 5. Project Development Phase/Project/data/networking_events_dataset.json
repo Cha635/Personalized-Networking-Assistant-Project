@@ -1,0 +1,98 @@
+[
+  {
+    "event_id": "EVT001",
+    "event_name": "AI for Sustainable Cities",
+    "event_description": "A global summit exploring how artificial intelligence, IoT, and data analytics are transforming urban infrastructure, reducing carbon footprints, and improving quality of life in modern smart cities.",
+    "themes": ["AI", "sustainability", "urban planning"],
+    "sample_interests": ["climate change", "smart infrastructure", "green energy"],
+    "sample_starters": [
+      "How do you think AI-driven traffic optimization could realistically cut city emissions in the next decade?",
+      "Which city do you think is leading the way in sustainable AI deployment, and what can others learn from it?",
+      "I've been reading about sensor networks in Barcelona – what tech stack excites you most in smart city projects?"
+    ]
+  },
+  {
+    "event_id": "EVT002",
+    "event_name": "HealthTech Innovation Summit",
+    "event_description": "A conference bringing together clinicians, engineers, and investors to discuss the latest breakthroughs in digital health, wearable diagnostics, telemedicine, and AI-assisted drug discovery.",
+    "themes": ["healthcare", "AI", "biotech"],
+    "sample_interests": ["medical imaging", "wearables", "drug discovery"],
+    "sample_starters": [
+      "What do you think the biggest regulatory hurdle is for getting AI diagnostics into clinical practice?",
+      "Have you seen any wearable data being used effectively in clinical trials?",
+      "I'm curious about your take on federated learning for hospital data – privacy vs. model accuracy trade-off?"
+    ]
+  },
+  {
+    "event_id": "EVT003",
+    "event_name": "Blockchain & Decentralized Finance Forum",
+    "event_description": "An industry forum for developers, regulators, and financial institutions to explore decentralized finance (DeFi) protocols, tokenization of real-world assets, and compliance in the Web3 ecosystem.",
+    "themes": ["blockchain", "finance", "cybersecurity"],
+    "sample_interests": ["DeFi", "smart contracts", "tokenization"],
+    "sample_starters": [
+      "Do you think layer-2 scaling solutions have finally solved the blockchain trilemma, or is there still a missing piece?",
+      "How are you approaching KYC/AML compliance in your DeFi projects without compromising decentralization?",
+      "I noticed more institutional players at this event – do you see traditional finance and DeFi converging soon?"
+    ]
+  },
+  {
+    "event_id": "EVT004",
+    "event_name": "EdTech & Future of Learning Conference",
+    "event_description": "An event for educators, curriculum designers, and technology providers exploring adaptive learning systems, gamification, generative AI tutors, and the evolution of online credentialing.",
+    "themes": ["education", "AI", "entrepreneurship"],
+    "sample_interests": ["adaptive learning", "gamification", "LLMs"],
+    "sample_starters": [
+      "Do you think AI tutors can ever replicate the mentorship aspect of a great teacher?",
+      "What's your experience with learner engagement in fully asynchronous online courses?",
+      "I've been experimenting with generative AI for personalized curricula – what guardrails do you think are essential?"
+    ]
+  },
+  {
+    "event_id": "EVT005",
+    "event_name": "Robotics & Automation Expo",
+    "event_description": "A hands-on expo showcasing the latest in industrial robotics, autonomous mobile robots (AMRs), cobots, and human-robot collaboration technologies across manufacturing and logistics sectors.",
+    "themes": ["robotics", "AI", "data science"],
+    "sample_interests": ["autonomous systems", "cobots", "supply chain"],
+    "sample_starters": [
+      "What's the most surprising application of collaborative robots you've come across recently?",
+      "How do you see vision-language models changing robot programming and deployment?",
+      "I'm curious how your team handles edge-case scenarios in unstructured warehouse environments."
+    ]
+  },
+  {
+    "event_id": "EVT006",
+    "event_name": "Cybersecurity & Zero-Trust Summit",
+    "event_description": "A security-focused summit examining zero-trust network architectures, AI-driven threat detection, ransomware mitigation strategies, and post-quantum cryptography readiness.",
+    "themes": ["cybersecurity", "AI", "blockchain"],
+    "sample_interests": ["zero trust", "threat intelligence", "post-quantum crypto"],
+    "sample_starters": [
+      "How close do you think enterprises are to achieving genuine zero-trust maturity versus just checking compliance boxes?",
+      "Are you seeing AI being used offensively in attacks more than defensively in your environment?",
+      "Post-quantum cryptography timelines feel abstract – are you already migrating any critical systems?"
+    ]
+  },
+  {
+    "event_id": "EVT007",
+    "event_name": "Climate Tech & Clean Energy Forum",
+    "event_description": "A forward-looking forum connecting cleantech startups, energy companies, and policymakers to discuss renewable energy deployment, carbon capture, grid modernization, and climate finance.",
+    "themes": ["sustainability", "climate change", "finance"],
+    "sample_interests": ["solar energy", "carbon markets", "grid storage"],
+    "sample_starters": [
+      "Which carbon capture technology do you think has the most credible path to gigaton-scale deployment?",
+      "How do you evaluate the real additionality of voluntary carbon credits in your investment thesis?",
+      "Grid-scale storage has been a talking point for years – what's your read on iron-air batteries vs. pumped hydro right now?"
+    ]
+  },
+  {
+    "event_id": "EVT008",
+    "event_name": "Data Science & Analytics World",
+    "event_description": "A practitioner-focused conference covering the full spectrum of modern data science: MLOps, feature engineering, causal inference, real-time analytics, and responsible AI practices.",
+    "themes": ["data science", "AI", "entrepreneurship"],
+    "sample_interests": ["MLOps", "causal inference", "responsible AI"],
+    "sample_starters": [
+      "What's your current MLOps stack, and what's the one tool you'd recommend to any team starting fresh?",
+      "Have you applied causal inference methods in a production model, or is it still mostly research for you?",
+      "Responsible AI checklists feel like theater sometimes – what practices actually change outcomes in your experience?"
+    ]
+  }
+]
